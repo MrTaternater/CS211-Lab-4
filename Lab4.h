@@ -15,9 +15,9 @@
 #define DASH '-'
 
 // Macros for standard header details
-#define SCHOOL "Binghamton University\n"
+#define SCHOOL "[COLLEGE]\n"
 #define LAB "Lab 4 - Playing With Numbers\n"
-#define PROGRAMMER "Program Written by: Tate Wishrad\n"
+#define PROGRAMMER "Program Written by: [NAME]\n"
 
 // Macros for table header details
 #define NUMBER "Current Number"
